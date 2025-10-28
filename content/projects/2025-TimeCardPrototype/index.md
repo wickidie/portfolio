@@ -1,30 +1,23 @@
 +++
 date = '2025-01-01'
 draft = false
-title = 'Sims Prototype'
+title = 'Tell Timmy Time'
 tags = ['Godot', 'GameDev'] 
 +++
 
-Sims like game but in card style.
+Tell Timmy what to do using card.
 <!--more-->
 
-{{< figure
-    src="/feature-timemanag1.png"
-    alt="Tell Timmy Time Prototype"
-    caption="**Tell Timmy Time Prototype**"
-    >}}
+{{< youtubeLite id="lENFYS2cpAI" label="Tell Timmy Time demo" >}}
 
 ## Overview
-A game where u need to keep timmy alive by fullfiling his needs.
+This is a simulation game where you must complete various tasks while keeping Timmy’s needs fulfilled. The game features day–night cycle, card deck system, and card placement on the timeline.
 
-## Tech Stack
+## Tools Used
 List of the tools used:
 - Godot
 - Krita
 
 ## Screenshots
-{{< figure
-    src="timemanag2.png"
-    alt="The Project in Godot"
-    caption="**The Project in Godot**"
-    >}}
+{{< figure src="feature-timemanag1.png" >}}
+{{< figure src="timemanag2.png" >}}

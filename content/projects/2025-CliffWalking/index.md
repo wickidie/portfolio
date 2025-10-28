@@ -20,10 +20,10 @@ Below is a short clip showing the agent’s training process. In my case, traini
 
 {{< youtubeLite id="jPUCwKP_6xs" label="CliffWalking Training demo" >}}
 
-## Tools and Frameworks Used
-List the tools and frameworks:
+## Tools Used
+List the tools used:
 - Godot
-- [AgentRL Godot Plugin](https://github.com/edbeeching/godot_rl_agents) (Godot Plugin for )
+- [AgentRL Godot Plugin](https://github.com/edbeeching/godot_rl_agents)
 - [Stable-baselines3](https://github.com/DLR-RM/stable-baselines3) (Reinforcement learning framework)
 - [TensorBoard](https://www.tensorflow.org/tensorboard) (Tracking and visualizing tools)
 

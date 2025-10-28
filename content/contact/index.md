@@ -4,7 +4,6 @@ draft = false
 title = 'Contact'
 +++
 
-
 This is contact index.md
 
-{{< article link="/portfolio/projects/test1/" showSummary=true compactSummary=true >}}
+{{< article link="/portfolio/projects/2025-ballgame/" showSummary=true compactSummary=true >}}
