@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Godot on Wickidie</title>
+    <link>http://localhost:1313/portfolio/tags/godot/</link>
+    <description>Recent content in Godot on Wickidie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>wickidie@gmail.com (Wickidie)</managingEditor>
+    <webMaster>wickidie@gmail.com (Wickidie)</webMaster>
+    <copyright>© 2025 Wickidie</copyright>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/portfolio/tags/godot/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CartPole</title>
+      <link>http://localhost:1313/portfolio/projects/2025-cartpole/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <author>wickidie@gmail.com (Wickidie)</author>
+      <guid>http://localhost:1313/portfolio/projects/2025-cartpole/</guid>
+      <description>&lt;p&gt;A game that can be played by human player or AI agent to balance the pole with moving cart.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/projects/2025-cartpole/featurecartpole2.png" />
+    </item>
+    
+    <item>
+      <title>CliffWalking</title>
+      <link>http://localhost:1313/portfolio/projects/2025-cliffwalking/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <author>wickidie@gmail.com (Wickidie)</author>
+      <guid>http://localhost:1313/portfolio/projects/2025-cliffwalking/</guid>
+      <description>&lt;p&gt;A game where you must move the player to the finish, playable by either a human player or an AI agent.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/projects/2025-cliffwalking/featurecliffwalking2.png" />
+    </item>
+    
+    <item>
+      <title>Dodge The Ball</title>
+      <link>http://localhost:1313/portfolio/projects/2025-ballgame/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <author>wickidie@gmail.com (Wickidie)</author>
+      <guid>http://localhost:1313/portfolio/projects/2025-ballgame/</guid>
+      <description>&lt;p&gt;A game where your dodge your cursor from the moving balls.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/projects/2025-ballgame/featureball3.png" />
+    </item>
+    
+    <item>
+      <title>Sims Prototype</title>
+      <link>http://localhost:1313/portfolio/projects/2025-timecardprototype/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <author>wickidie@gmail.com (Wickidie)</author>
+      <guid>http://localhost:1313/portfolio/projects/2025-timecardprototype/</guid>
+      <description>&lt;p&gt;Sims like game but in card style.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/projects/2025-timecardprototype/feature-timemanag1.png" />
+    </item>
+    
+    <item>
+      <title>Tower Defense Prototype</title>
+      <link>http://localhost:1313/portfolio/projects/2025-tdprototype/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <author>wickidie@gmail.com (Wickidie)</author>
+      <guid>http://localhost:1313/portfolio/projects/2025-tdprototype/</guid>
+      <description>&lt;p&gt;Tower defense inspired by BloonsTD 6 and SpinTD custom game from Dota 2.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/projects/2025-tdprototype/featurespintd5.png" />
+    </item>
+    
+  </channel>
+</rss>

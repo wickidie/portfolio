@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Wickidie</title>
+    <link>http://localhost:1313/portfolio/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Wickidie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>wickidie@gmail.com (Wickidie)</managingEditor>
+    <webMaster>wickidie@gmail.com (Wickidie)</webMaster>
+    <copyright>© 2025 Wickidie</copyright>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/portfolio/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CartPole</title>
+      <link>http://localhost:1313/portfolio/projects/2025-cartpole/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <author>wickidie@gmail.com (Wickidie)</author>
+      <guid>http://localhost:1313/portfolio/projects/2025-cartpole/</guid>
+      <description>&lt;p&gt;A game that can be played by human player or AI agent to balance the pole with moving cart.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/projects/2025-cartpole/featurecartpole2.png" />
+    </item>
+    
+    <item>
+      <title>CliffWalking</title>
+      <link>http://localhost:1313/portfolio/projects/2025-cliffwalking/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <author>wickidie@gmail.com (Wickidie)</author>
+      <guid>http://localhost:1313/portfolio/projects/2025-cliffwalking/</guid>
+      <description>&lt;p&gt;A game where you must move the player to the finish, playable by either a human player or an AI agent.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/projects/2025-cliffwalking/featurecliffwalking2.png" />
+    </item>
+    
+  </channel>
+</rss>
