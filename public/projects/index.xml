@@ -42,16 +42,6 @@
     </item>
     
     <item>
-      <title>FilteringSignalNoise</title>
-      <link>http://localhost:1313/portfolio/projects/2025-filteringsignalnoise/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <author>wickidie@gmail.com (Wickidie)</author>
-      <guid>http://localhost:1313/portfolio/projects/2025-filteringsignalnoise/</guid>
-      <description>&lt;p&gt;This is my short summary text that will appear on the card.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
       <title>Sims Prototype</title>
       <link>http://localhost:1313/portfolio/projects/2025-timecardprototype/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
@@ -69,46 +59,6 @@
       <guid>http://localhost:1313/portfolio/projects/2025-tdprototype/</guid>
       <description>&lt;p&gt;Tower defense inspired by BloonsTD 6 and SpinTD custom game from Dota 2.&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/portfolio/projects/2025-tdprototype/featurespintd5.png" />
-    </item>
-    
-    <item>
-      <title>GanodermaPalm</title>
-      <link>http://localhost:1313/portfolio/projects/2024-ganodermapalm/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <author>wickidie@gmail.com (Wickidie)</author>
-      <guid>http://localhost:1313/portfolio/projects/2024-ganodermapalm/</guid>
-      <description>&lt;p&gt;This is my short summary text that will appear on the card.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>IDCardVR</title>
-      <link>http://localhost:1313/portfolio/projects/2024-idcardvr/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <author>wickidie@gmail.com (Wickidie)</author>
-      <guid>http://localhost:1313/portfolio/projects/2024-idcardvr/</guid>
-      <description>&lt;p&gt;This is my short summary text that will appear on the card.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>MachungInVR</title>
-      <link>http://localhost:1313/portfolio/projects/2024-machunginvr/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <author>wickidie@gmail.com (Wickidie)</author>
-      <guid>http://localhost:1313/portfolio/projects/2024-machunginvr/</guid>
-      <description>&lt;p&gt;This is my short summary text that will appear on the card.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>IndoCuisineAR</title>
-      <link>http://localhost:1313/portfolio/projects/2023-indocuisinear/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <author>wickidie@gmail.com (Wickidie)</author>
-      <guid>http://localhost:1313/portfolio/projects/2023-indocuisinear/</guid>
-      <description>&lt;p&gt;This is my short summary text that will appear on the card.&lt;/p&gt;</description>
-      
     </item>
     
   </channel>
